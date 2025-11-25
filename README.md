@@ -31,13 +31,14 @@ Shows user information with logout functionality.
 Modern UI/UX
 Clean screens, intuitive navigation, bottom navigation bar, and consistent design.
 
-🏗️ Tech Stack
+| Layer            | Technology                            |
+| ---------------- | ------------------------------------- |
+| **Frontend**     | Kotlin, Android Studio                |
+| **Backend**      | Firebase Authentication, Firestore    |
+| **AI Engine**    | Google Gemini API                     |
+| **Architecture** | Fragment Navigation + Clean UI Layout |
+| **Database**     | Firestore Cloud Document Storage      |
 
-Frontend: Kotlin, Android Studio
-Backend: Firebase Authentication, Firestore
-AI Integration: Google Gemini API
-Architecture: Clean Layout + Fragment Navigation
-Database: Firestore Cloud Document Storage
 
 📂 Project Structure (Highlight)
 /app
